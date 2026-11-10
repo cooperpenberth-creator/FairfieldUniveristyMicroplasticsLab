@@ -1,6 +1,6 @@
 # Fairfield University Microplastics Lab
 
-This is a self-contained static website prototype. Open `index.html` in a browser to explore the two lab rooms, current project interactions, Dr. Walker's office, the past-project cabinet, article shelf, and protocol views.
+This is a self-contained static website. Open `index.html` in a browser to explore the two lab rooms, current project interactions, Dr. Walker's office, the past-project cabinet, article shelf, and protocol views.
 
 ## Updating the content
 
@@ -10,4 +10,4 @@ The archive links to `assets/river-otters-poster.pdf`, a copy of the supplied ri
 
 ## Publishing
 
-The site uses plain HTML, CSS, and JavaScript, so it can be published through GitHub Pages once the project files are placed in the GitHub repository. This environment could not connect to GitHub, so the files have not been pushed to the repository.
+The site uses plain HTML, CSS, and JavaScript. In the repository, open **Settings → Pages**, choose **Deploy from a branch**, then select `main` and `/(root)` to publish it through GitHub Pages.
