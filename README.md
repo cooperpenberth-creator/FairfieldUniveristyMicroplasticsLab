@@ -6,6 +6,8 @@ This is a self-contained static website. Open `index.html` in a browser to explo
 
 The project and equipment text lives in the `data` object in `index.html`. The article and protocol lists are in the `openModal` function, and the cabinet entries are in the `archives` list. Replace the clearly marked prompts with lab-approved summaries and methods as the team provides them.
 
+The room now uses reference photos from the supplied lab presentation: the microscope, FTIR instrument, vacuum filtration apparatus, sample shaker, and glassware shelves are stored in `assets/`. These are clickable station images. Replace them with newer lab photos as the setup changes. The otter image is a visual reference from the supplied otter poster draft; it should not be treated as current project data.
+
 The archive links to `assets/river-otters-poster.pdf`, a copy of the supplied river otter behavior poster draft. Confirm its archive status and public sharing approval before publishing it. It is not automatically linked to the current otter microscope project.
 
 ## Publishing
